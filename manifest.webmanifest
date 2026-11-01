@@ -1,0 +1,27 @@
+{
+  "name": "Rotas de Poder — Estratégia Global",
+  "short_name": "Rotas de Poder",
+  "description": "Um jogo de estratégia geopolítica e perseguição, em universo alternativo e fictício.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071724",
+  "theme_color": "#071724",
+  "orientation": "any",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
